@@ -1,0 +1,13 @@
+MODUFLY AI — EASY RUN EDITION
+
+1. Right-click the ZIP and choose Extract All.
+2. Open the extracted folder.
+3. Double-click index.html. Use Chrome or Microsoft Edge.
+
+No Node.js, Python, terminal, internet, API keys or code changes are required.
+
+Includes: animated dashboard, six simulated farm modules, module details, anomaly flags, batch create/update/delete, lifecycle guide, browser persistence, CSV export, and yield/margin calculator.
+
+Records are stored in this browser for this file location. Keep the same browser and file location. Export CSV before clearing browser data or moving the file. Browser privacy settings may prevent persistence; the app will show a message.
+
+Cloud database and login are not connected in this easy-run edition. The separate Next.js ZIP includes the optional Supabase integration. Sensor readings are simulated and calculations are scenario estimates.
